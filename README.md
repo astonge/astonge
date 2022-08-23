@@ -1,3 +1,5 @@
+![ASTO](asto-ansi.png)
+
 # Hi there 👋
 
 <!--
