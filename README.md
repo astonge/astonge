@@ -1,4 +1,4 @@
-[astonge header](https://github-readme-stats.vercel.app/api/?username=astonge&theme=dracula)
+![astonge header](https://github-readme-stats.vercel.app/api/?username=astonge&theme=dracula)
 
 ### Hi there 👋
 - 🔭 I’m currently looking for work.
